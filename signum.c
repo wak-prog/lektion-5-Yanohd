@@ -1,8 +1,5 @@
 #include <stdio.h>
 
-int lol(int a) {
-    return a * -1;
-}
 
 int main() {
 int a;
